@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <servername>127.0.0.1</servername>
+  <username>Suzy</username>
+  <userpwd>suzy1010</userpwd>
+  <dbname>HRIMS</dbname>
+  <hotelname>Suzy's House</hotelname>
+  <hoteltel>15554498783</hoteltel>
+  <hoteladdr>Kerea,Seoul</hoteladdr>
+  <status>yes</status>
+</root>
